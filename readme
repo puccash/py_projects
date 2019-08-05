@@ -1,14 +1,25 @@
 1.파이썬 기반 데이터 과학 프로젝트
--데이터 분석 및 수집
--전처리
--적제
--분석
--시각화
--머신러닝
--딥러닝 프로젝트 (AI 약한)
+ -데이터 분석 및 수집
+ -전처리
+ -적제
+ -분석
+ -시각화
+ -머신러닝
+ -딥러닝 프로젝트 (AI 약한)
 
 2. git을 이용한 공정 관리
-- github.com 가입 및 로그인
-- git-scm.com 다운로드 및 설치
- 설치시 editor를 vs code로 적용
-- github에 new 
+ - github.com 가입 및 로그인
+ - git-scm.com 다운로드 및 설치
+  설치시 editor를 vs code로 적용
+ - github에 new 
+
+ - 최초 1회 한정.
+  만약, 프로젝트를 먼저 작업하다가, git을 사용한 경우,
+  1) git clone을 다른 위치에서 수행
+  2) clone을 통해 만들어진 위치에 먼저 만들어진 프로젝트 내용을 이동
+  3) vs code에서 commit and push 작업을 진행한다.
+  4) 단, 최초 수행시, git 오류가 발생할 수 있고, 이러한 경우, 
+   $ git config --global user.name "puccash"
+   $ git config --global user.email "sohn3333@naver.com"
+   현재 프로젝트 위치에서 터미널에서 1회 수행하면, 처리된다.
+  5) 
