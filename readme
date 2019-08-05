@@ -22,4 +22,4 @@
    $ git config --global user.name "puccash"
    $ git config --global user.email "sohn3333@naver.com"
    현재 프로젝트 위치에서 터미널에서 1회 수행하면, 처리된다.
-  5) 
+  5) 123
